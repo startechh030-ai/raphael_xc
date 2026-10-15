@@ -11,3 +11,4 @@ dist-ssr
 
 # dev-only smoke test output
 .tmp-ssr
+*.tsbuildinfo
